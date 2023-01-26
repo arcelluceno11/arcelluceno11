@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning React.
 
-- 📚 My technology stack are Laravel (PHP), Android (Java), .NET (C#), and C/C++.
+- 📚 My technology stack are NuxtJS (VueJS), Laravel (PHP), Android (Java), .NET (C#), and C/C++.
 
 - 📫 Ask me or Send me a message [@arcelluceno11](https://www.twitter.com/arcelluceno11)
 
