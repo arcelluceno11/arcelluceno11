@@ -4,9 +4,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, Laravel, Android (Java).
+- 🔭 I’m currently learning React.
 
-- 📫 Send me a message [@arcelluceno11](https://www.twitter.com/arcelluceno11)
+- 📚 My technology stack are Laravel (PHP), Android (Java), .NET (C#), and C/C++.
+
+- 📫 Ask me or Send me a message [@arcelluceno11](https://www.twitter.com/arcelluceno11)
 
 <!--
 **arcelluceno11/arcelluceno11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
