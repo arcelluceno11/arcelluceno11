@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/arcelluceno11" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  height=40 ></a>
 -->
 
-🙏 for reading!
+![](https://komarev.com/ghpvc/?username=arcelluceno11)
