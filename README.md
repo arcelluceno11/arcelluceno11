@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently learning Express.
+- 🔭 I’m currently learning React Native.
 
-- 📚 My technology stack are React, NuxtJS (Vue), Laravel (PHP), Android (Java), .NET (C#), and C/C++.
+- 📚 My technology stack are Express,React, NuxtJS (Vue), Laravel (PHP), Android (Java), .NET (C#), and C/C++.
 
 - 📫 Ask me or Send me a message [@arcelluceno11](https://www.twitter.com/arcelluceno11)
 
