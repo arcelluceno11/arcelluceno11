@@ -1,15 +1,13 @@
 <a href="mailto:arcelluceno11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
-<a href="https://www.twitter.com/arcelluceno11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
  <a href="https://www.linkedin.com/in/arcel-luceno-730319206"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 
 ### Hi there 👋
 
 - 🔭 I’m currently learning Flutter.
 
-- 📚 My technology stack are Node, React, NuxtJS (Vue), Laravel (PHP), Java, .NET (C#), and C/C++.
-
-- 📫 Ask me or Send me a message [@arcelluceno11](https://www.twitter.com/arcelluceno11)
-
+- 📚 My technology stack are Node, Reac, Laravel (PHP), Java (Spring), .NET (C#), 
+- 📫 Ask me or Send me a email
+  arcelluceno11@gmail.com
 <!--
 **arcelluceno11/arcelluceno11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
