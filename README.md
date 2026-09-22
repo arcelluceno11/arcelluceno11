@@ -2,10 +2,6 @@
  <a href="https://www.linkedin.com/in/arcel-luceno-730319206"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 
 ### Hi there 👋
-
-- 🔭 I’m currently learning Flutter.
-
-- 📚 My technology stack are Node, Reac, Laravel (PHP), Java (Spring), .NET (C#), 
 - 📫 Ask me or Send me a email
   arcelluceno11@gmail.com
 <!--
