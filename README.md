@@ -4,3 +4,5 @@
 ### Hi there 👋
 - 📫 Ask me or Send me a email
   arcelluceno11@gmail.com
+
+![](https://komarev.com/ghpvc/?username=arcelluceno11&color=grey)
